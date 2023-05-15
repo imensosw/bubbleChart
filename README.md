@@ -4,7 +4,7 @@ A simple and lightweight official React component for FusionCharts JavaScript ch
 
 Bubble chart for representing data.
 
-![image](https://github.com/rsharmaimenso/bubble-chart/blob/master/public/allBUbble.png)
+![image](https://github.com/imensosw/bubbleChart/blob/master/public/allBubble.png)
 
 
 
@@ -131,7 +131,7 @@ const dataSource = {
 
    After click on bubble plot with the help of event `dataPlotClick` fuction, we are showing the bubble element selected in chart. 
 
-![image](https://github.com/rsharmaimenso/bubble-chart/blob/master/public/selectedBubble.png)
+![image](https://github.com/imensosw/bubbleChart/blob/master/public/selectedBubble.png)
 
 
 # Code
